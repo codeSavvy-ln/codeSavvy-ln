@@ -1,5 +1,12 @@
 ## Hi there 👋
 This is Ankit
+[LinkedIn](https://www.linkedin.com/in/ankit-singh-a168692b5/)
+
+**PROJECTS**
+
+  - **POWER BI** - [[link]](https://github.com/codeSavvy-ln/Power-BI/tree/main)
+      - Ecommerce Sales Dshborad - [[link]](https://github.com/codeSavvy-ln/Power-BI/tree/main/Ankit%20Ecommerce%20Sales%20Dashboard%20Project)
+        ![logo](https://github.com/codeSavvy-ln/Power-BI/blob/6e9bbf99ca732d203a88f9b4abd4274fa901c90f/Ankit%20Ecommerce%20Sales%20Dashboard%20Project/Ankit%20Ecommerce%20Sales%20Dashboard%20SS.png)
 
 <!--
 **codeSavvy-ln/codeSavvy-ln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
