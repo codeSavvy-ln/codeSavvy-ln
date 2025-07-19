@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 -->
 
 Contact Details:
-      - Gmail: ankit.singh.buz@gmail.com
-      - Mob: 7836864168
-      - [LinkedIn](https://www.linkedin.com/in/ankit-singh-a168692b5/) Profile
+- Gmail: ankit.singh.buz@gmail.com
+- Mob: 7836864168
+- [LinkedIn](https://www.linkedin.com/in/ankit-singh-a168692b5/) Profile
