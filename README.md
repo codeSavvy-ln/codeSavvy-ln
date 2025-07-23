@@ -2,9 +2,12 @@
 This is Ankit
 
 **PROJECTS**
+   - **SNOWFLAKE** - [[link]](https://github.com/codeSavvy-ln/Snowflake/tree/main)
+      - [Swiggy Data Pipeline](https://github.com/codeSavvyln/Snowflake/tree/main/Swiggy%20Data%20Pipeline)
+
 
   - **POWER BI** - [[link]](https://github.com/codeSavvy-ln/Power-BI/tree/main)
-      - Ecommerce Sales Dashborad - [[link]](https://github.com/codeSavvy-ln/Power-BI/tree/main/Ankit%20Ecommerce%20Sales%20Dashboard%20Project)
+     - [Ecommerce Sales Dashborad](https://github.com/codeSavvy-ln/Power-BI/tree/main/Ankit%20Ecommerce%20Sales%20Dashboard%20Project) 
         ![logo](https://github.com/codeSavvy-ln/Power-BI/blob/6e9bbf99ca732d203a88f9b4abd4274fa901c90f/Ankit%20Ecommerce%20Sales%20Dashboard%20Project/Ankit%20Ecommerce%20Sales%20Dashboard%20SS.png)
 
 <!--
