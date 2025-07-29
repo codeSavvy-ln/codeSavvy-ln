@@ -3,7 +3,7 @@ This is Ankit
 
 **PROJECTS**
    - **SNOWFLAKE** - [[link]](https://github.com/codeSavvy-ln/Snowflake/tree/main)
-      - [Swiggy Data Pipeline]((https://github.com/codeSavvy-ln/Snowflake/tree/main/Swiggy%20Data%20Pipeline)
+      - [Swiggy Data Pipeline](https://github.com/codeSavvy-ln/Snowflake/tree/main/Swiggy%20Data%20Pipeline)
 
 
   - **POWER BI** - [[link]](https://github.com/codeSavvy-ln/Power-BI/tree/main)
