@@ -3,7 +3,8 @@ This is Ankit
 
 **PROJECTS**
    - **SNOWFLAKE** - [[link]](https://github.com/codeSavvy-ln/Snowflake/tree/main)
-      - [Swiggy Data Pipeline](https://github.com/codeSavvy-ln/Snowflake/tree/main/Swiggy%20Data%20Pipeline)
+      - [Swiggy Data Pipeline](https://github.com/codeSavvy-ln/Snowflake/tree/main/Swiggy%20Data%20Pipeline) - Data is extracted from Postgre DB (which is in the ER model) in the form of CSV then uploaded, transfomred and implemented in Dimensionla modelling schema on the snowflake
+      - ![logo](https://github.com/codeSavvy-ln/Snowflake/blob/main/Swiggy%20Data%20Pipeline/End-to-End%20data%20flow%20architecture.png)
 
 
   - **POWER BI** - [[link]](https://github.com/codeSavvy-ln/Power-BI/tree/main)
