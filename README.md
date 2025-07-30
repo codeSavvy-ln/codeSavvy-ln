@@ -3,7 +3,7 @@ This is Ankit
 
 **PROJECTS**
    - **SNOWFLAKE** - [[link]](https://github.com/codeSavvy-ln/Snowflake/tree/main)
-      - [Swiggy Data Pipeline](https://github.com/codeSavvy-ln/Snowflake/tree/main/Swiggy%20Data%20Pipeline) - Data is extracted from Postgre DB (which is in the ER model) in the form of CSV then uploaded, transformed and implemented in Dimensional modelling schema on the snowflake
+      - [Swiggy Data Pipeline](https://github.com/codeSavvy-ln/Snowflake/tree/main/Swiggy%20Data%20Pipeline) - Data is extracted from Postgre DB (which is in the ER model) in the form of CSV then uploaded, transformed and implemented in Dimensional modelling schema and further visualized in streamlit on the snowflake
        ![logo](https://github.com/codeSavvy-ln/Snowflake/blob/main/Swiggy%20Data%20Pipeline/End-to-End%20data%20flow%20architecture.png)
 
 
