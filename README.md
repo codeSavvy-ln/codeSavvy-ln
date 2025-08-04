@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Ankit, Aspiring Data Professional.
+This is Ankit Singh, Aspiring Data Professional.
 
 **PROJECTS**
    - **SNOWFLAKE** - [[link]](https://github.com/codeSavvy-ln/Snowflake/tree/main)
