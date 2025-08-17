@@ -2,7 +2,7 @@
 This is Ankit Singh, Aspiring Data Professional.
 
 **PROJECTS**
-   - **Azure** - [[Full Readme Link]](https://github.com/codeSavvy-ln/Azure-Data-Pipeline-Project/tree/main)
+   - **Azure End-To-End Data Engineering Project** - [[Full Readme Link]](https://github.com/codeSavvy-ln/Azure-Data-Pipeline-Project/tree/main)
 
         ![logo](https://github.com/codeSavvy-ln/Azure-Data-Pipeline-Project/blob/main/project%20architecture%20snapshot.png)
 
