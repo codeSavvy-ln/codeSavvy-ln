@@ -2,6 +2,10 @@
 This is Ankit Singh, Aspiring Data Professional.
 
 **PROJECTS**
+   - **Azure** - [[Full Readme Link]](https://github.com/codeSavvy-ln/Azure-Data-Pipeline-Project/tree/main)
+
+        ![logo](https://github.com/codeSavvy-ln/Azure-Data-Pipeline-Project/blob/main/project%20architecture%20snapshot.png)
+
    - **SNOWFLAKE** - [[Full Readme Link]](https://github.com/codeSavvy-ln/Snowflake/tree/main/Swiggy%20Data%20Pipeline)
       - [Swiggy Data Pipeline] - Data is extracted from Postgre DB (which is based on ER model) in the form of CSV then uploaded, transformed and implemented in Dimensional modelling schema and further visualized in streamlit on the snowflake
        ![logo](https://github.com/codeSavvy-ln/Snowflake/blob/main/Swiggy%20Data%20Pipeline/End-to-End%20data%20flow%20architecture.png)
